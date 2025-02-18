@@ -124,8 +124,9 @@ header {
 .container {
     display: flex;
     justify-content: space-around;
-    padding: 40px 20px; /* Consistent top and bottom padding */
-    margin: 40px 0; /* Consistent top and bottom margin */
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 40px; /* Consistent top and bottom margin */
     width: 100%;
     background-color: #1CA0A6;
 }
